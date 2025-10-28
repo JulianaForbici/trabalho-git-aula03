@@ -8,5 +8,4 @@ numero2 = float(input("Digite o segundo número: "))
 resultado = numero1 * numero2
 
 # Mostra o resultado
-print("Header do relatório")
 print(f"O resultado da multiplicação é: {resultado}")
