@@ -9,3 +9,8 @@ resultado = numero1 * numero2
 
 # Mostra o resultado
 print(f"O resultado da multiplicação é: {resultado}")
+
+
+# simula adicao de 3 numeros
+# HOTFIX
+
